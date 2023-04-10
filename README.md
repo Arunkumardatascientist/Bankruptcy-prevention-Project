@@ -1,6 +1,7 @@
 # Bankruptcy-prevention-Project
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/114068300/230830839-1b75c49f-aa13-48e1-95f6-cac3f1883dab.png)
+
 
 Bankruptcy prediction, also named as corporate bankruptcy prediction or corporate failure prediction
 Bankruptcy is a legal proceeding initiated when a person or business is unable to repay outstanding debts or obligations.
